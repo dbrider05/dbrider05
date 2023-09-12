@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dbrider05
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DS & Algo in C++
+- 👋 Hi, I’m @abdulqavi056
+- OS, DBMS, TOC, CN 
+- 🌱 DS & Algo in C++
 - 💞️ I’m looking to collaborate on projects related to C++
 - 📫 How to reach me 
 
