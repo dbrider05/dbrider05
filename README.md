@@ -1,7 +1,3 @@
-## Abdul Qavi
-
-📍 New Delhi, India  🌐 [LinkedIn](https://www.linkedin.com/in/abdul-qavi-935098259)   
-
 ### 🔍 About Me
 I work on power semiconductor devices, focusing on Si/SiC power modules, power module design, and advanced packaging.
 
